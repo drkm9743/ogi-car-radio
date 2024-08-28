@@ -6,7 +6,7 @@ Language = {
         ['volume_icon'] = 'volume-high',
         ['custom_url_label'] = 'Custom URL',
         ['custom_url_help'] = 'Enter a custom youtube URL to play in the radio',
-        ['custom_url_icon'] = 'youtube'
+        ['custom_url_icon'] = {'fab', 'youtube'}
     },
 
     ['PT'] = { --portuguese
@@ -16,7 +16,7 @@ Language = {
         ['volume_icon'] = 'volume-high',
         ['custom_url_label'] = 'URL Personalizado',
         ['custom_url_help'] = 'Introduz um URL de Youtube personalizado',
-        ['custom_url_icon'] = 'youtube'
+        ['custom_url_icon'] = {'fab', 'youtube'}
     },
 
     ['SR'] = { --serbian
@@ -26,7 +26,7 @@ Language = {
         ['volume_icon'] = "volume-high",
         ['custom_url_label'] = "Youtube URL",
         ['custom_url_help'] = "Unesi youtube URL da pustis na radiju",
-        ['custom_url_icon'] = "youtube"
+        ['custom_url_icon'] = {'fab', 'youtube'}
     },
     ['PL'] = { --polish
         ['name'] = 'Radio samochodowe',
@@ -35,7 +35,7 @@ Language = {
         ['volume_icon'] = 'volume-high',
         ['custom_url_label'] = 'Link z YouTube',
         ['custom_url_help'] = 'Wklej tutaj link do utworu, który chcesz odtworzyć w radiu.',
-        ['custom_url_icon'] = 'youtube'
+        ['custom_url_icon'] = {'fab', 'youtube'}
     },
     ['ES'] = { --spanish
         ['name'] = 'Opciones de la Radio',
@@ -44,6 +44,6 @@ Language = {
         ['volume_icon'] = 'volume-high',
         ['custom_url_label'] = 'URL Personalizada',
         ['custom_url_help'] = 'Introduce una URL de YouTube',
-        ['custom_url_icon'] = 'youtube'
+        ['custom_url_icon'] = {'fab', 'youtube'}
     },
 }
