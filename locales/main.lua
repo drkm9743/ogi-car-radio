@@ -6,7 +6,7 @@ Language = {
         ['volume_icon'] = 'volume-high',
         ['custom_url_label'] = 'Custom URL',
         ['custom_url_help'] = 'Enter a custom youtube URL to play in the radio',
-        ['ustom_url_icon'] = 'youtube'
+        ['custom_url_icon'] = 'youtube'
     },
 
     ['PT'] = { --portuguese
@@ -16,7 +16,7 @@ Language = {
         ['volume_icon'] = 'volume-high',
         ['custom_url_label'] = 'URL Personalizado',
         ['custom_url_help'] = 'Introduz um URL de Youtube personalizado',
-        ['ustom_url_icon'] = 'youtube'
+        ['custom_url_icon'] = 'youtube'
     },
 
     ['SR'] = { --serbian
