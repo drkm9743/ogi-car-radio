@@ -37,4 +37,13 @@ Language = {
         ['custom_url_help'] = 'Wklej tutaj link do utworu, który chcesz odtworzyć w radiu.',
         ['custom_url_icon'] = 'youtube'
     },
+    ['ES'] = { --spanish
+        ['name'] = 'Opciones de la Radio',
+        ['volume_label'] = 'Volumen',
+        ['volume_help'] = 'Cambiar el volumen de la radio',
+        ['volume_icon'] = 'volume-high',
+        ['custom_url_label'] = 'URL Personalizada',
+        ['custom_url_help'] = 'Introduce una URL de YouTube',
+        ['custom_url_icon'] = 'youtube'
+    },
 }
